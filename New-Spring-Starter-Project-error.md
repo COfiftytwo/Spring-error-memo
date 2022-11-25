@@ -36,6 +36,7 @@ java.lang.reflect.InvocationTargetException
 
 ## 解決策：
 プロジェクトを作成するときに「新規Springスタータープロジェクト依存関係」でSpringBootのバージョン変えてみる。
-<br>今回のエラーは3.0.0でエラーが出ているので、2.7.7を選んで作成してみる。
+<br>今回のエラーは3.0.0でエラーが出ているので、2.7.7を選んで作成してみると解決した。
+<br>
 <br>
 <img src="https://github.com/COfiftytwo/Spring-error-memo/blob/main/img/Spring-error.png" width="680px" height="339" />
